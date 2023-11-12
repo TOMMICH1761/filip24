@@ -3,3 +3,4 @@
 2 100g maki
 3 2 cebule
 4 cos
+5 kucharz 1
