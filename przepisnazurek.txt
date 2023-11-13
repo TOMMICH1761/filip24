@@ -1,9 +1,4 @@
-cd C:\Users\filip\filip24
-
-
-
-
-
-
-
-git statius
+1 przepis
+2 kielbasa
+3 ziemnikaki
+4 marchewka
