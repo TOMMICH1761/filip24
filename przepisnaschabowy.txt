@@ -3,4 +3,6 @@
 3 100g jajek
 4 panierka
 5 kucharz 0
+6 ryz
+7 ogórki
 
