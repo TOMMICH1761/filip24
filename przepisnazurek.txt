@@ -1,0 +1,9 @@
+cd C:\Users\filip\filip24
+
+
+
+
+
+
+
+git statius
