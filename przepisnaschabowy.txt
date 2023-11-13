@@ -3,4 +3,7 @@
 3 100g jajek
 4 panierka
 5 kucharz 0
+6 ziemniaki
+7 pomidory
+
 
